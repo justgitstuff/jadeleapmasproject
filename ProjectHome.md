@@ -1,0 +1,1 @@
+Proiectul este compus din 2 parti: una practica si una teoretica. Partea teoretica permite familiarizarea cu platforma JADE si prezinta utilitatea practica a addon-ului LEAP. Partea practica cuprinde o aplicatie in care este prezentata functionalitatea si beneficiile utilizarii JADE-LEAP.
